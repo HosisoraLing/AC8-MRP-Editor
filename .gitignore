@@ -1,0 +1,15 @@
+/.venv/
+/cache/
+/build/
+/dist/
+/release/
+*.spec
+__pycache__/
+*.py[cod]
+*.sav
+*.tmp
+Backups/
+MRP_Backups/
+SaveGames/
+manifest.json
+MRP-change-report.json
